@@ -1,1 +1,5 @@
 # ReactTicTacToe
+
+Instruction
+
+npm start
